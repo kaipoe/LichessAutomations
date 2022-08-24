@@ -1,7 +1,7 @@
 # LichessAutomations
 Collection of test automation scripts for Lichess.org
 
-Welcome to LichessAutomations by Kaipo Eda
+Welcome to LichessAutomations by Kaipo E.
 
 Lichess is a free and open-source Internet chess server run by a non-profit organization of the same name.
 
