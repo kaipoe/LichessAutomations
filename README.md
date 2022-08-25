@@ -9,6 +9,8 @@ These test automations will perform basic functional testing of critical website
 
 Steps to run code on your machine:
 
-1. 
-2. 
-3. 
+1. Clone this repo to your local system.
+2. Download chromedriver at https://chromedriver.chromium.org/downloads.
+3. Configure your chrome driver directory within "System.setProperty" (Path to where your chromedriver.exe is installed). 
+4. Set your testing username and credentials within the test case scripts. 
+5. Run the test cases as a Java class in your IDE. 
