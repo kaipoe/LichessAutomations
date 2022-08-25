@@ -7,6 +7,12 @@ Lichess is a free and open-source Internet chess server run by a non-profit orga
 
 These test automations will perform basic functional testing of critical website functionality such as logging in, creating a game, and managing settings.
 
+The 'pages' directory contains all page object models for lichess.org where automation test scripts are run. 
+These files should not be altered. 
+
+The 'Tests' directory contains all automation test scripts that are to be run as Java code. 
+These files may be altered locally to input credentials or to adjust the test scenario. 
+
 Steps to run code on your machine:
 
 1. Clone this repo to your local system (git clone https://github.com/kaipoe/LichessAutomations.git).
