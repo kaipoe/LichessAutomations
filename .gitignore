@@ -23,9 +23,16 @@
 hs_err_pid*
 replay_pid*
 
+#nodes
+node_modules
+
 # Environment variables
 *.env
 *.*.env
+.env*
+!.env.project
+!.env.vault
 
 #IDE files
 /.idea
+
